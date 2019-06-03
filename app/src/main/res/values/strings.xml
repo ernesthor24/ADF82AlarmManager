@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ADF8.2AlarmManager</string>
+    <string name="toggle_off">Alarm Off</string>
+    <string name="toggle_on">Alarm On</string>
+    <string name="toast_on">Stand Up Alarm On!</string>
+    <string name="toast_off">Stand Up Alarm Off!</string>
+    <string name="standup_text">Stand Up Alert</string>
+    <string name="stand_info_text">You should stand up and walk around now!</string>
+</resources>
